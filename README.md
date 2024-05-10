@@ -8,7 +8,7 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
 
 * 🌍  Moro em Santa Catarina, Brasil
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
-* 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com) (Por ser hospedado em um plano gratis, o site fica inativo por cerca de um minuto, clique no link, aguarde cerca de 50 segundos e tente novamente)
+* 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com) (Por ser hospedado em um plano gratis, o site fica inativo por cerca de um minuto após inatividade de 5 minutos, clique no link, aguarde entre cerca de 50 segundos e tente novamente. Se o site não carregar, não tenho o que fazer, as vezes o plano gratuito do Render simplesmente engasga por um bom tempo, posso tentar mudar de server, mas só se atrapalhar muito)
 * 🧠  Estou aprendendo Django
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
 
