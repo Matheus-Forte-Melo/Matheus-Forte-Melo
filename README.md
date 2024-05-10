@@ -14,8 +14,8 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
   
 * 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com)
 NOTA: Por ser hospedado em um plano gratis, o site fica inativo por cerca de um minuto após inatividade de 5 minutos, clique no link e aguarde.
-A velocidade do site não é aquelas coisas justamente poruqe o plano grátis oferece 0.1 de CPU, alem disso, estou utilizando um banco de dados com plano gratuito também, por isso a demora.
-Se você quiser uma alternativa mais para testar as funcionalidades dessa rede, visite o reapositório e leia as instruções do ReadMe  
+A velocidade do site não é aquelas coisas justamente porque o plano grátis oferece 0.1 de CPU, alem disso, estou utilizando um banco de dados na nuvem com plano gratuito, por isso temos alguns loads de até 10 segundos.
+Se você quiser uma alternativa mais veloz para testar as funcionalidades dessa rede social, visite o repositório e leia as instruções do ReadMe  
 
 ### Habilidades
 
