@@ -10,12 +10,8 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
 * 🧠  Estou aprendendo Django
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
-
-  
 * 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com)
-NOTA: Por ser hospedado em um plano gratis, o site fica inativo por cerca de um minuto após inatividade de 5 minutos, clique no link e aguarde.
-A velocidade do site não é aquelas coisas justamente porque o plano grátis oferece 0.1 de CPU, alem disso, estou utilizando um banco de dados na nuvem com plano gratuito, por isso temos alguns loads de até 10 segundos.
-Se você quiser uma alternativa mais veloz para testar as funcionalidades dessa rede social, visite o repositório e leia as instruções do ReadMe  
+
 
 ### Habilidades
 
