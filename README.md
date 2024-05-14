@@ -8,10 +8,13 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
 
 * 🌍  Moro em Santa Catarina, Brasil
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
-* 🧠  Estou aprendendo Django
+* 🧠  Estou aprendendo Django 
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
-* 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com)
 
+* 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com)
+ * Repositório do projeto: https://github.com/Matheus-Forte-Melo/studybud
+
+* Side-Project -> https://github.com/Matheus-Forte-Melo/maite
 
 ### Habilidades
 
