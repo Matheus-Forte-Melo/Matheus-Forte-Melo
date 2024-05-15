@@ -11,7 +11,7 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
 * 🧠  Estou aprendendo Django 
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
 
-* 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com)
+* 🚀  Meu projeto atual é o website [StudyBud](https://studybud-o8cr.onrender.com) (Periodos de inatividade, clique no link e aguarde cerca de um minuto)
    * Repositório do projeto: https://github.com/Matheus-Forte-Melo/studybud
 
 * 🚀🧠 Side-Project -> https://github.com/Matheus-Forte-Melo/maite
