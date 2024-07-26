@@ -8,7 +8,7 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
 
 * 🌍  Moro em Santa Catarina, Brasil
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
-* 🧠  Focado em aprender Django // Tailwind // Javascript para criar um <b>sistema escolar web</b>! Este será meu próximo grande projeto.
+* 🧠  Focado em aprender Django // Tailwind // Javascript para criar um <b>sistema escolar web</b>! Este será meu próximo grande projeto, mas antes disso estou focando em resolver algumas questões pessoais, então provavel que meu github ainda permaneça inativo por algum tempo.
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
 
 * 🚀  Meu projeto mais recente é o website [StudyBud](https://studybud-o8cr.onrender.com) (Periodos de inatividade, clique no link e aguarde cerca de um minuto)
