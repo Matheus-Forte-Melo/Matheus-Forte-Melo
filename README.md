@@ -8,10 +8,10 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
 
 * 🌍  Moro em Santa Catarina, Brasil
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
-* 🧠  Focado em aprender Django // Tailwind // Javascript para criar um <b>sistema escolar web</b>! Este será meu próximo grande projeto, mas antes disso estou focando em resolver algumas questões pessoais, então provavel que meu github ainda permaneça inativo por algum tempo.
+* 🧠  Atualmente aprendendo JS! Desenvolvendo uma plataforma de ensino afim de ensinar o básico da programação para iniciantes. A próxima tecnologia que vou aprender provavelmente será alguma framework. React ou Next.js, ou quem sabe, os dois, se tiver me sentindo inspirado. 
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
 
-* 🚀  Meu projeto mais recente é o website [StudyBud](https://studybud-o8cr.onrender.com) (Periodos de inatividade, clique no link e aguarde cerca de um minuto)
+* 🚀  Meu projeto COMPLETO mais recente é o website [StudyBud](https://studybud-o8cr.onrender.com) (Periodos de inatividade, clique no link e aguarde cerca de um minuto)
    * Repositório do projeto: https://github.com/Matheus-Forte-Melo/studybud
 
 * 🚀🧠 Side-Project (Melhorias em um futuro proximo) -> https://github.com/Matheus-Forte-Melo/maite
