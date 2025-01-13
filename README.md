@@ -15,8 +15,8 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
    * Repositório do projeto: https://github.com/Matheus-Forte-Melo/plataforma-ensino 
 * 🚀  Meu segundo projeto mais COMPLETO é o website [StudyBud](https://studybud-o8cr.onrender.com) (Periodos de inatividade, clique no link e aguarde cerca de um minuto)
    * Repositório do projeto: https://github.com/Matheus-Forte-Melo/studybud
-
-* 🚀🧠 Side-Project (Melhorias em um futuro proximo) -> https://github.com/Matheus-Forte-Melo/maite
+ 
+* Atualmente, estou revisando conceitos de python. Vou dar uma limpada geral no meu Github em breve e devo ir colocando alguns problemas de LeetCode que resolvi aqui.
 
 ### Habilidades
 
