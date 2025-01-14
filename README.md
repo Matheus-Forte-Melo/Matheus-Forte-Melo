@@ -23,7 +23,26 @@ Venho ganhando interesse por programação e tudo que envolve tecnologia por cer
 ### Habilidades
 
 
-<i style="font-size: 45px;" class="devicon-python-plain"></i>  <i style="font-size: 45px;" class="devicon-javascript-plain"></i>  <i style="font-size: 45px;" class="devicon-html5-plain "></i>  <i style="font-size: 45px;" class="devicon-css3-plain"></i>    <i style="font-size: 45px;" class="devicon-django-plain"></i>   <i style="font-size: 45px;" class="devicon-tailwindcss-original"></i> <i style="font-size: 45px;" class="devicon-mysql-original"></i>  <i style="font-size: 45px;" class="devicon-postgresql-plain"></i> 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
           
 
 <p align="left">
