@@ -8,7 +8,7 @@ Eai! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Tudo bem? Bem-vindo ao meu perfil! Ultimamente venho construindo uma base forte por meio de projetos de automação, desenvolvimento web, análise de dados, UX e outras áreas parecidas. 
 
-Busco sempre evoluir enquanto me preocupo em desenvolver soluções funcionais e garantir uma boa UX. Porém, ainda tenho muito a aprender, mas fique à vontade para conhecer meus projetos enquanto avanço com foto total e determinação nesse jornada, que está longe de acabar.
+Busco sempre evoluir enquanto me preocupo em desenvolver soluções funcionais e garantir uma boa UX. Porém, ainda tenho muito a aprender, mas fique à vontade para conhecer meus projetos enquanto expando meus conhecimentos, com foco total e determinação.
 
 
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
