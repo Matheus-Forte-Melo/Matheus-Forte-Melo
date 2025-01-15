@@ -6,7 +6,7 @@ Eai! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <h2>Fullstack Developer</h2>
 
-Tudo bem? Bem-vindo ao meu perfil! Ultimamente venho explorando as seguintes áreas por meio de proejetos: Desenvolvimento web, análise de dados e UX. Além de ter uma grande vontade de aprender outras linguagens. 
+Tudo bem? Bem-vindo ao meu perfil! Ultimamente venho explorando as seguintes áreas por meio de projetos: Desenvolvimento web, análise de dados e UX. Além de ter uma grande vontade de aprender outras linguagens. 
 
 Busco sempre evoluir enquanto me preocupo em desenvolver soluções funcionais e garantir uma boa UX. Porém, ainda tenho muito a aprender, mas fique à vontade para conhecer meus projetos enquanto expando meus conhecimentos, com foco total e determinação.
 
