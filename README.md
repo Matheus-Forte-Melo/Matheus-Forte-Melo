@@ -6,11 +6,10 @@ Eai! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <h2>Fullstack Developer</h2>
 
-Tudo bem? Bem-vindo ao meu perfil! Desde o começo da minha jornada venho construindo uma base forte por meio de projetos em automação, desenvolvimento web, análise de dados, UX e outras áreas parecidas. 
+Tudo bem? Bem-vindo ao meu perfil! Ultimamente venho construindo uma base forte por meio de projetos de automação, desenvolvimento web, análise de dados, UX e outras áreas parecidas. 
 
 Busco sempre evoluir enquanto me preocupo em desenvolver soluções funcionais e garantir uma boa UX. Porém, ainda tenho muito a aprender, mas fique à vontade para conhecer meus projetos enquanto avanço com foto total e determinação nesse jornada, que está longe de acabar.
 
-<small>Esse ano penso em expandir meus conhecimentos migrando pra uma linguagem tipada</small>
 
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
 * 🧠  Atualmente dando uma revisada geral em tudo. Pra começar um 2025 fresco. Majoritariamente estudando estruturas de dados e fazendo alguns leetcodes da vida. 
