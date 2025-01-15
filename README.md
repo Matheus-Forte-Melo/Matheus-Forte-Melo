@@ -6,9 +6,9 @@ Eai! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <h2>Fullstack Developer</h2>
 
-Tudo bem? Bem-vindo ao meu perfil! Ultimamente venho explorando as seguintes áreas: Desenvolvimento web, Estrutura de dados, análise de dados e UX. Tenho também uma grande vontade de aprender linguagens mais complexas, mas esse não é foco atual.  
+Tudo bem? Bem-vindo ao meu perfil! Ultimamente venho explorando as seguintes áreas: Desenvolvimento web, estrutura de dados, análise de dados e UX. Tenho também uma grande vontade de aprender linguagens mais complexas, mas esse não é foco atual.  
 
-Busco sempre evoluir enquanto me preocupo em desenvolver soluções funcionais e garantir uma boa UX. Porém, ainda tenho muito a aprender, mas fique à vontade para conhecer meus projetos enquanto expando meus conhecimentos, com foco total e determinação.
+Busco sempre evoluir enquanto me preocupo em desenvolver soluções funcionais e garantir uma boa UX. Porém, ainda tenho muito a aprender, <b>mas fique à vontade para conhecer meus projetos enquanto expando meus conhecimentos</b>, com foco total e determinação.
 
 
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
