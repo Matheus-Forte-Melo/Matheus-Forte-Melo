@@ -6,10 +6,10 @@ Eai! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <h2>Fullstack Developer</h2>
 
-Venho ganhando interesse por programação e tudo que envolve tecnologia por cerca de dois anos, porém comecei a tryhardar há apenas um ano. No momento ainda não possuo experiência profissional, há um longo caminho que eu ainda tenho que caminhar e há muito que eu ainda tenho que aprender, mas estou chegando lá! aos poucos.
+A tecnologia vem despertanto um interesse em mim desde minha infância, porém, fazem dois anos desde que comecei a agir para saciar esse interesse. Apesar de ainda não ter experiência profissional, venho construindo uma base sólida em áreas como automação, desenvolvimento web, análise de dados e design, sempre com foco em criar soluções funcionais e oferecer uma excelente experiência ao usuário. Sei que ainda há muito a aprender e um longo caminho pela frente, mas avanço com determinação e a confiança de quem está sempre em busca de evoluir.
 
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
-* 🧠  Atualmente dando uma revisada geral em tudo. Pra começar um 2025 fresco. Majoritariamente estudando estruturas de dados e fazendo alguns leetcode da vida. 
+* 🧠  Atualmente dando uma revisada geral em tudo. Pra começar um 2025 fresco. Majoritariamente estudando estruturas de dados e fazendo alguns leetcodes da vida. 
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
 
 *  🚀 Meu projeto COMPLETO mais recente é o website do [Projeto Extensionista](https://plataforma-ensino-v1.vercel.app) 
