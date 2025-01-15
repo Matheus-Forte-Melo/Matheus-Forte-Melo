@@ -4,7 +4,7 @@
 Eai! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me chame de Melo
 ======================================================
 
-<h2>Fullstack Developer<h2>
+<h2>Fullstack Developer</h2>
 
 Venho ganhando interesse por programação e tudo que envolve tecnologia por cerca de dois anos, porém comecei a tryhardar há apenas um ano. No momento ainda não possuo experiência profissional, há um longo caminho que eu ainda tenho que caminhar e há muito que eu ainda tenho que aprender, mas estou chegando lá! aos poucos.
 
