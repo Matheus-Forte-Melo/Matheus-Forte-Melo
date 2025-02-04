@@ -11,7 +11,7 @@ Tudo bem? Bem-vindo ao meu perfil! Ultimamente venho explorando as seguintes ár
 Busco sempre evoluir enquanto me preocupo em desenvolver soluções funcionais e garantir uma boa UX. Porém, ainda tenho muito a aprender, <b>mas fique à vontade para conhecer meus projetos enquanto expando meus conhecimentos</b>, com foco total e determinação. <b>Estou no segundo período da faculdade de Engenharia de Sofware</b>.
 
 * ✉️  Meu contato profissional: [MatheusForte12125@gmail.com](mailto:MatheusForte12125@gmail.com)
-* 🧠  Atualmente dando uma revisada geral em tudo. Pra começar um 2025 fresco. Majoritariamente estudando estruturas de dados e fazendo alguns leetcodes da vida. 
+* 🧠  Atualmente dando uma revisada geral em tudo. Pra começar um 2025 fresco. Majoritariamente estudando estruturas de dados e fazendo alguns leetcodes da vida. Além de estar me aprofundando em python, antes de seguir para uma nova linguagem. Espere um projeto em breve, talvez uma API.
 * ⚡  Nas horas vagas eu ando por dutos e mato alienígenas λ
 
 *  🚀 Meu projeto COMPLETO mais recente é o website do [Projeto Extensionista](https://plataforma-ensino-v1.vercel.app) 
